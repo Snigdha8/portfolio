@@ -1,5 +1,5 @@
 {
-    "about": " This is where you can describe about **yourself**. The more you describe about yourself, the better it is!\n\n\nExtra Information about you, like hobbies and your goals.\nExample Paragraph: I am passionate about my work. Because I love what I do, I have a steady source of motivation that drives me to do my best. In my last job, this passion led me to challenge myself daily and learn new skills that helped me to do better work. For example, I taught myself how to use Photoshop to improve the quality of our photos and graphics. I soon became the go-to person for any design needs.",
-    "imageSource": "images/about/profile.png"
+    "about": "Snigdha is a detail-oriented individual with a knack for problem-solving. She has previously showcased her excellence in delivering enterprise-scaled applications and has worked across numerous technologies in software development, focusing on creating microservices that process high-volume data. She has contributed to the holistic software development lifecycle of these APIs, beginning with the collection and definition of requirements, followed by architectural design, codebase development, rigorous testing, seamless deployment and meticulous documentation. She will be an asset to the team, being well-versed in Java, Spring Boot, DBMS, JavaScript, REST API development, and AWS services.",
+    "imageSource": "images/about/Profile-Photo.jpg"
     
 }

@@ -1,19 +1,19 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
+            "title": "August 2023 - May 2025 (Expected)",
+            "cardTitle": "Master of Science in Computer Science",
+            "cardSubtitle":"Stony Brook University, NY, USA",
+            "cardDetailedText": "CGPA - 3.78/4"
+        },
+        {
+            "title": "July 2016 - May 2020",
+            "cardTitle": "B.Tech, Computer Science and Engineering",
+            "cardSubtitle":"Visvesvaraya National Institute of Technology (VNIT), Nagpur, India",
+            "cardDetailedText": "CGPA - 8.16/10",
             "icon" : {
                 "src": "images/education/lorem-ipsum.png"
             }
-        },
-        {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
         }
     ]
 }
