@@ -2,32 +2,26 @@
     "experiences": [
         {
             "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "subtitle": "Fidelity Investments",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Created a Java microservice leveraging multi-threading techniques to efficiently process pending payment orders, delivering a robust throughput of 3000 requests per second.",
+                "Designed and developed a REST API from inception to delivery to fetch, sort and filter brokerage and non-brokerage positions data that handles up to 2000 positions per request for multiple user accounts.",
+                "Built a Spring Boot-based backend service to retrieve patching data of 60 servers from an Oracle database, facilitating the development of a monitoring tool for patching activity. This initiative resulted in an 84-person-hour reduction during each patching cycle.",
+                "Implemented CI/CD pipelines using DevOps tools like Jenkins and uDeploy which led to more efficient software delivery cycles, improving time-to-production by 37%.",
+                "Integrated Docker-based containerization with Kubernetes to automate the deployment, scaling, and management of applications, achieving a 40% improvement in scalability and significant reduction in infrastructure costs."
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "08/2020 – 07/2023"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Software Engineer Intern",
+            "subtitle": "Fidelity Investments",
             "workType": "Internship",
             "workDescription": [
-                "Worked on abc."
+                "Created a database on Amazon RDS PostgreSQL engine with GTC orders data belonging to 32 trading venues.",
+                "Deployed a python script using AWS Lambda function by connecting to AWS API Gateway to retrieve application data."
             ],
-            "dateText": "01/20XX – 05/20XX"
-        },
-        {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
-            "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
-            ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "05/2019 – 07/2019"
         }
     ]
 }
