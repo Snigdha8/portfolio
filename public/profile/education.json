@@ -10,10 +10,7 @@
             "title": "July 2016 - May 2020",
             "cardTitle": "B.Tech, Computer Science and Engineering",
             "cardSubtitle":"Visvesvaraya National Institute of Technology (VNIT), Nagpur, India",
-            "cardDetailedText": "CGPA - 8.16/10",
-            "icon" : {
-                "src": "images/education/lorem-ipsum.png"
-            }
+            "cardDetailedText": "CGPA - 8.16/10"
         }
     ]
 }
