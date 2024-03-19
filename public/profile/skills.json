@@ -42,8 +42,8 @@
             "title": "Frameworks & Technologies",
             "items" : [
                 {
-                    "icon": "images/skills/Spring Boot.png",
-                    "title": "Spring.png"
+                    "icon": "images/skills/Spring.png",
+                    "title": "Spring"
                 },
                 {
                     "icon": "images/skills/react.png",
@@ -87,8 +87,8 @@
                     "title": "Docker"
                 },
                 {
-                    "icon": "images/skills/Kunernetes.jpg",
-                    "title": "Kunernetes"
+                    "icon": "images/skills/Kubernetes.jpg",
+                    "title": "Kubernetes"
                 },
                 {
                     "icon": "images/skills/SwaggerHub.png",

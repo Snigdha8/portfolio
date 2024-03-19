@@ -1,6 +1,23 @@
 {
     "projects" : [
         {
+            "title": "AI-MedRec: Medication reconciliation software using LLMs (Ongoing)",
+            "bodyText": "Research Project under Prof. I.V. Ramakrishnan, Stony Brook University",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Snigdha8/AI-Med-Rec"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Django",
+                "AWS",
+                "LLMs",
+                "Android"
+            ]
+        },
+        {
             "image" : "images/projects/MuzTrade.jpg",
             "title": "MuzTrade",
             "bodyText": "An AI-driven stock market prediction tool based on the sentiment of the Spotify daily top songs and trained over the new powerful AWS DL1 Habana instance",
@@ -8,7 +25,7 @@
                 {
                     "text": "Devpost",
                     "href": "https://devpost.com/software/t-lgqf6x"
-                }
+                },
                 {
                     "text": "YouTube",
                     "href": "https://youtu.be/s_lcnSclNnI"
@@ -32,6 +49,10 @@
                 {
                     "text": "Devpost",
                     "href": "https://devpost.com/software/suspectrecon"
+                },
+                {
+                    "text": "YouTube",
+                    "href": "https://youtu.be/M-WRxTai5MU"
                 }
             ],
             "tags" : [
